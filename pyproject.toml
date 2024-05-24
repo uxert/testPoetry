@@ -1,15 +1,15 @@
 [tool.poetry]
-name = "kzc"
+name = "testpoetry"
 version = "0.1.0"
 description = ""
-authors = ["uxert <150385101+uxert@users.noreply.github.com>"]
-license = "^3.11"
+authors = ["uxert <uxert@wp.pl>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-fastapi = "^0.111.0"
 uvicorn = "^0.29.0"
+fastapi = "^0.111.0"
+pandas = "^2.2.2"
 
 
 [build-system]
