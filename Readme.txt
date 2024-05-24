@@ -1,3 +1,3 @@
-W sumie to pusty w środku
+Projekt którego jedynym zadaniem jest napisanie czegoś przy użyciu FastAPI oraz sprawdzenie, jak git działa z Poetry.
 
-Nie no serio to projekt testowy z fastAPI na hackaton
+W szczególności sprawdzenie, co się dzieje w sytuacji konfliktu pakietów.
